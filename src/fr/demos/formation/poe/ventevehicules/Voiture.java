@@ -10,6 +10,8 @@ public class Voiture extends VehiculeMoteur {
 
 		super(prixHT, modele, annee, etat, couleur);
 		// TODO Auto-generated constructor stub
+		
+		// Test
 
 		this.immatriculation = immatriculation;
 	}
